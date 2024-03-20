@@ -1,0 +1,44 @@
+body{
+    background:url("./numberguess1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 900px;
+    height: 500px;
+}
+.main{
+    background:aquamarine;
+    width:900px;
+    height:500px;
+    margin-left:300px;
+    margin-top:50px;
+}
+#hd1{
+    margin-left:250px;
+}
+.box1{
+    padding-left:250px;
+    color:black;
+}
+#box2{
+    margin-left:1%;
+    margin-top:50px;
+    display:flex;
+    justify-content:space-evenly;
+   
+}
+#n{
+    margin-left:350px;
+    margin-top:50px;
+    width:200px;
+    height:20px;
+}
+#res{
+    color:blue;
+margin-left: 320px;
+font-family: 'Courier New', Courier, monospace;
+}
+#tries{
+    color:blue;
+    margin-left:350px;
+    font-family: 'Courier New', Courier, monospace;
+}
